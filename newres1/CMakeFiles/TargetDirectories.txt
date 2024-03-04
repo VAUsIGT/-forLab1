@@ -1,0 +1,2 @@
+C:/Users/XOMA/source/repos/-forLab1/newres1/CMakeFiles/ALL_BUILD.dir
+C:/Users/XOMA/source/repos/-forLab1/newres1/CMakeFiles/ZERO_CHECK.dir
